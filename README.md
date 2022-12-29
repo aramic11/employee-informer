@@ -9,7 +9,7 @@ This project helped me learn more about databases and the differences between pr
 
 ## Links
 Github: https://github.com/aramic11/employee-informer
-Video: 
+Video: https://github.com/aramic11/employee-informer/blob/main/employeeApp.mp4
 
 https://user-images.githubusercontent.com/113563367/209895236-fd3324ca-6d8a-46df-a9d8-be1ef1f30eee.mp4
 
