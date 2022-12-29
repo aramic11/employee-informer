@@ -11,5 +11,9 @@ This project helped me learn more about databases and the differences between pr
 Github: https://github.com/aramic11/employee-informer
 Video: 
 
+https://user-images.githubusercontent.com/113563367/209895236-fd3324ca-6d8a-46df-a9d8-be1ef1f30eee.mp4
+
+
+
 
 ## Screenshot
